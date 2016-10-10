@@ -1,0 +1,18 @@
+body {
+  padding-left: 50px;
+  padding-right: 500px;
+  padding-top: 5px;
+  font-family: Arial, sans-serif;
+}
+p {
+  line-height:30%;
+}
+h3 {
+  color: teal;
+  line-height:100%;
+}
+h1 {
+  color: teal;
+  text-decoration: underline;
+  line-height:90%;
+}
